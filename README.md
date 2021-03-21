@@ -9,3 +9,5 @@ Take care of passenger's safety and traffic rules
 
 ## Approach
 We use Q-Learning to teach the taxi to pick up and drop off passengers at the right locations.
+
+Tutorial : https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
